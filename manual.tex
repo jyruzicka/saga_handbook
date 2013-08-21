@@ -1,0 +1,66 @@
+\documentclass[a4paper]{book}
+\usepackage[top=2cm, bottom=3cm, left=2cm, right=2cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[RO,LE]{SAGA Inc. Committee Manual}
+\fancyhead[RE,LO]{\nouppercase{\leftmark}}
+\fancyfoot[CO,CE]{\thepage}
+
+%-------------------------------------------------------------------------------
+\def\ie{\textit{i.e.}~}
+\def\eg{\textit{e.g.}~}
+\def\etc{\textit{etc.}}
+%-------------------------------------------------------------------------------
+
+\begin{document}
+\title{SAGA Incorporated community guidebook}
+\author{Jan-Yves Ruzicka}
+\date{August 18, 2013}
+\maketitle
+
+\input{parts/introduction}
+\input{parts/changelog}
+\tableofcontents
+\chapter{Roles}
+  \input{roles/president}
+  \input{roles/treasurer}
+  \input{roles/secretary}
+  \input{roles/quartermaster}
+  \input{roles/promotions}
+\chapter{Events}
+\label{cha:events}
+  \input{events/affiliation}
+  \input{events/clubsday}
+  \input{events/intronight}
+  \input{events/bod}
+  \input{events/smallevent}
+  \input{events/signatories}
+  \input{events/agm}
+  \input{events/sgm}
+\chapter{Assets}
+  \input{assets/website}
+  \input{assets/facebook}
+  \input{assets/mailinglist}
+  \input{assets/incorporation}
+\chapter{Sample Documents}
+\label{cha:docs}
+  \input{docs/constitution}
+  \input{docs/finance}
+  \input{docs/budget}
+  \input{docs/cashflow}
+  \input{docs/checklists}
+
+\end{document}
+
+% \documentclass[a4paper]{article}
+% \usepackage[top=2cm, bottom=3cm, left=2cm, right=2cm]{geometry}
+% \usepackage[utf8]{inputenc}
+% \usepackage[journal=rsc,xspace,nonotes]{chemstyle}
+% \usepackage[version=3]{mhchem}
+% \usepackage{amsmath}
+% \usepackage{amssymb}
+% \DeclareGraphicsExtensions{.pdf,.jpg,.tif}
+
