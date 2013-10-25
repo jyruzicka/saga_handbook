@@ -4,7 +4,6 @@
 \usepackage{graphicx}
 \usepackage{pdfpages}
 \usepackage{fancyhdr}
-\pagestyle{fancy}
 \fancyhead[RO,LE]{SAGA Inc. Committee Manual}
 \fancyhead[RE,LO]{\nouppercase{\leftmark}}
 \fancyfoot[CO,CE]{\thepage}
@@ -16,6 +15,7 @@
 %-------------------------------------------------------------------------------
 
 \begin{document}
+\pagestyle{plain}
 \title{SAGA Incorporated community guidebook}
 \author{Jan-Yves Ruzicka}
 \date{August 18, 2013}
@@ -25,6 +25,7 @@
 \input{parts/changelog}
 \tableofcontents
 \chapter{Roles}
+\pagestyle{fancy}
   \input{roles/intro}
   \input{roles/president}
   \input{roles/treasurer}
@@ -41,6 +42,7 @@
   \input{events/signatories}
   \input{events/agm}
   \input{events/sgm}
+  \input{events/rulechanges}
 \chapter{Assets}
   \input{assets/website}
   \input{assets/facebook}

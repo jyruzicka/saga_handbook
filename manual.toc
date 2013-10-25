@@ -33,20 +33,21 @@
 \contentsline {subsubsection}{Keep records of membership}{13}
 \contentsline {subsubsection}{Enable communication between committee members}{14}
 \contentsline {subsubsection}{Maintain the club's incorporated status}{14}
+\contentsline {subsubsection}{Deal with rule changes}{14}
 \contentsline {subsubsection}{Hold the common seal}{14}
 \contentsline {section}{\numberline {1.5}Quartermaster}{14}
 \contentsline {subsection}{\numberline {1.5.1}Key Tasks}{14}
 \contentsline {subsection}{\numberline {1.5.2}In Depth}{14}
 \contentsline {subsubsection}{Oversee loans from the club}{14}
 \contentsline {subsubsection}{Organise purchase of new assets}{14}
-\contentsline {subsubsection}{Prepare an inventory}{14}
+\contentsline {subsubsection}{Prepare an inventory}{15}
 \contentsline {section}{\numberline {1.6}Promotions Officer}{15}
 \contentsline {subsection}{\numberline {1.6.1}Key Tasks}{15}
 \contentsline {subsection}{\numberline {1.6.2}In Depth}{15}
 \contentsline {subsubsection}{Publish Out of Character}{15}
 \contentsline {subsubsection}{Maintain promotional assets}{15}
 \contentsline {subsubsection}{Promote SAGA events}{15}
-\contentsline {subsubsection}{Promote SAGA as a club}{15}
+\contentsline {subsubsection}{Promote SAGA as a club}{16}
 \contentsline {chapter}{\numberline {2}Events}{17}
 \contentsline {section}{\numberline {2.1}Affiliation}{17}
 \contentsline {section}{\numberline {2.2}Running clubs day}{17}
@@ -69,7 +70,7 @@
 \contentsline {subsubsection}{Ten months out}{21}
 \contentsline {subsubsection}{Summer holidays}{21}
 \contentsline {subsubsection}{January}{21}
-\contentsline {subsubsection}{February}{21}
+\contentsline {subsubsection}{February}{22}
 \contentsline {subsubsection}{March}{22}
 \contentsline {subsubsection}{April}{22}
 \contentsline {subsubsection}{Two weeks out}{22}
@@ -78,9 +79,14 @@
 \contentsline {subsubsection}{After the convention}{24}
 \contentsline {section}{\numberline {2.5}Running a small event}{24}
 \contentsline {section}{\numberline {2.6}Changing signatories}{24}
-\contentsline {section}{\numberline {2.7}Running an Annual General Meeting}{24}
+\contentsline {section}{\numberline {2.7}Running an Annual General Meeting}{25}
 \contentsline {subsection}{\numberline {2.7.1}Shoulder-tapping}{25}
 \contentsline {section}{\numberline {2.8}Running a Special General Meeting}{25}
+\contentsline {section}{\numberline {2.9}Changing the club rules}{25}
+\contentsline {subsection}{\numberline {2.9.1}Aside: nomenclature}{25}
+\contentsline {subsection}{\numberline {2.9.2}Proposing a rule change}{26}
+\contentsline {subsection}{\numberline {2.9.3}Changing the rules}{26}
+\contentsline {subsection}{\numberline {2.9.4}Notifying people}{26}
 \contentsline {chapter}{\numberline {3}Assets}{27}
 \contentsline {section}{\numberline {3.1}Website}{27}
 \contentsline {section}{\numberline {3.2}Facebook page}{27}
@@ -89,6 +95,6 @@
 \contentsline {chapter}{\numberline {4}Sample Documents}{29}
 \contentsline {section}{\numberline {4.1}Constitution}{29}
 \contentsline {section}{\numberline {4.2}Financial Report}{31}
-\contentsline {section}{\numberline {4.3}Budget}{34}
-\contentsline {section}{\numberline {4.4}Cashflow}{37}
-\contentsline {section}{\numberline {4.5}Checklists}{39}
+\contentsline {section}{\numberline {4.3}Budget}{35}
+\contentsline {section}{\numberline {4.4}Cashflow}{38}
+\contentsline {section}{\numberline {4.5}Checklists}{40}
