@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.1)  18 AUG 2013 15:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.1)  24 AUG 2013 22:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -495,36 +495,41 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [8]
 Chapter 1.
-(./roles/president.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+(./roles/intro.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
  [9
 
-])
-(./roles/treasurer.tex [10] [11]) (./roles/secretary.tex [12])
-(./roles/quartermaster.tex) (./roles/promotions.tex [13]) [14]
-Chapter 2.
-(./events/affiliation.tex) (./events/clubsday.tex [15
+]) (./roles/president.tex [10]) (./roles/treasurer.tex [11])
+(./roles/secretary.tex [12] [13]) (./roles/quartermaster.tex)
+(./roles/promotions.tex [14]) [15] [16
 
-])
-(./events/intronight.tex [16]) (./events/bod.tex [17] [18] [19] [20] [21])
-(./events/smallevent.tex) (./events/signatories.tex) (./events/agm.tex [22])
-(./events/sgm.tex) [23] [24
+]
+Chapter 2.
+(./events/affiliation.tex) (./events/clubsday.tex [17])
+(./events/intronight.tex [18]) (./events/bod.tex [19] [20] [21] [22] [23])
+(./events/smallevent.tex) (./events/signatories.tex) (./events/agm.tex [24])
+(./events/sgm.tex) [25] [26
 
 ]
 Chapter 3.
 (./assets/website.tex) (./assets/facebook.tex) (./assets/mailinglist.tex)
-(./assets/incorporation.tex [25]) [26]
+(./assets/incorporation.tex [27]
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[][]\OT1/cmr/m/n/8 Currently: http://www.societies.govt.nz/cms/incorporated-soc
+ieties/running-a-society/how-do-you-change-the-rules-of-a-
+ []
+
+) [28]
 Chapter 4.
-(./docs/constitution.tex [27
+(./docs/constitution.tex [29
 
-] [28]) (./docs/finance.tex [29]
-<images/Income.pdf, id=107, page=1, 597.23125pt x 845.1575pt>
+] [30]) (./docs/finance.tex [31]
+<images/Income.pdf, id=114, page=1, 597.23125pt x 845.1575pt>
 File: images/Income.pdf Graphic file (type pdf)
 
 <use images/Income.pdf, page 1>
@@ -548,8 +553,8 @@ File: images/Income.pdf Graphic file (type pdf)
 <use images/Income.pdf, page 1>
 Package pdftex.def Info: images/Income.pdf, page1 used on input line 26.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [30 <./images/Income.pdf>]
-<images/Financial.pdf, id=151, page=1, 597.23125pt x 845.1575pt>
+ [32 <./images/Income.pdf>]
+<images/Financial.pdf, id=158, page=1, 597.23125pt x 845.1575pt>
 File: images/Financial.pdf Graphic file (type pdf)
 
 <use images/Financial.pdf, page 1>
@@ -573,9 +578,9 @@ File: images/Financial.pdf Graphic file (type pdf)
 <use images/Financial.pdf, page 1>
 Package pdftex.def Info: images/Financial.pdf, page1 used on input line 27.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [31 <./images/Financial.pdf>])
-(./docs/budget.tex [32]
-<images/Budget.pdf, id=200, page=1, 597.23125pt x 845.1575pt>
+ [33 <./images/Financial.pdf>])
+(./docs/budget.tex [34]
+<images/Budget.pdf, id=206, page=1, 597.23125pt x 845.1575pt>
 File: images/Budget.pdf Graphic file (type pdf)
 
 <use images/Budget.pdf, page 1>
@@ -599,8 +604,8 @@ File: images/Budget.pdf Graphic file (type pdf)
 <use images/Budget.pdf, page 1>
 Package pdftex.def Info: images/Budget.pdf, page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [33 <./images/Budget.pdf>]
-<images/Actuals.pdf, id=244, page=1, 597.23125pt x 845.1575pt>
+ [35 <./images/Budget.pdf>]
+<images/Actuals.pdf, id=250, page=1, 597.23125pt x 845.1575pt>
 File: images/Actuals.pdf Graphic file (type pdf)
 
 <use images/Actuals.pdf, page 1>
@@ -624,9 +629,9 @@ File: images/Actuals.pdf Graphic file (type pdf)
 <use images/Actuals.pdf, page 1>
 Package pdftex.def Info: images/Actuals.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [34 <./images/Actuals.pdf>])
-(./docs/cashflow.tex [35]
-<images/Cashflow.pdf, id=291, page=1, 597.23125pt x 845.1575pt>
+ [36 <./images/Actuals.pdf>])
+(./docs/cashflow.tex [37]
+<images/Cashflow.pdf, id=298, page=1, 597.23125pt x 845.1575pt>
 File: images/Cashflow.pdf Graphic file (type pdf)
 
 <use images/Cashflow.pdf, page 1>
@@ -650,9 +655,9 @@ File: images/Cashflow.pdf Graphic file (type pdf)
 <use images/Cashflow.pdf, page 1>
 Package pdftex.def Info: images/Cashflow.pdf, page1 used on input line 8.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [36 <./images/Cashflow.pdf>])
-(./docs/checklists.tex [37]
-<images/Checklist-general.pdf, id=324, page=1, 614.295pt x 794.97pt>
+ [38 <./images/Cashflow.pdf>])
+(./docs/checklists.tex [39]
+<images/Checklist-general.pdf, id=330, page=1, 614.295pt x 794.97pt>
 File: images/Checklist-general.pdf Graphic file (type pdf)
 
 <use images/Checklist-general.pdf, page 1>
@@ -683,7 +688,7 @@ File: images/Checklist-general.pdf Graphic file (type pdf)
 Package pdftex.def Info: images/Checklist-general.pdf, page1 used on input line
  5.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [38 <./images/Checklist-general.pdf>] <images/Checklist-BOD.pdf, id=332, page=
+ [40 <./images/Checklist-general.pdf>] <images/Checklist-BOD.pdf, id=338, page=
 1, 614.295pt x 794.97pt>
 File: images/Checklist-BOD.pdf Graphic file (type pdf)
 
@@ -708,8 +713,8 @@ File: images/Checklist-BOD.pdf Graphic file (type pdf)
 <use images/Checklist-BOD.pdf, page 1>
 Package pdftex.def Info: images/Checklist-BOD.pdf, page1 used on input line 6.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [39 <./images/Checklist-BOD.pdf>]
-<images/Checklist-BOD.pdf, id=338, page=2, 614.295pt x 794.97pt>
+ [41 <./images/Checklist-BOD.pdf>]
+<images/Checklist-BOD.pdf, id=344, page=2, 614.295pt x 794.97pt>
 File: images/Checklist-BOD.pdf Graphic file (type pdf)
 
 <use images/Checklist-BOD.pdf, page 2>
@@ -724,16 +729,16 @@ File: images/Checklist-BOD.pdf Graphic file (type pdf)
 <use images/Checklist-BOD.pdf, page 2>
 Package pdftex.def Info: images/Checklist-BOD.pdf, page2 used on input line 6.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [40 <./images/Checklist-BOD.pdf>])
+ [42 <./images/Checklist-BOD.pdf>])
 (./manual.aux) ) 
 Here is how much of TeX's memory you used:
- 3701 strings out of 493315
- 52157 string characters out of 6137905
- 128749 words of memory out of 5000000
- 7005 multiletter control sequences out of 15000+600000
+ 3705 strings out of 493315
+ 52213 string characters out of 6137905
+ 128760 words of memory out of 5000000
+ 7006 multiletter control sequences out of 15000+600000
  9621 words of font info for 34 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,18n,46p,694b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,18n,46p,1114b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
@@ -745,10 +750,10 @@ b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on manual.pdf (40 pages, 475912 bytes).
+Output written on manual.pdf (42 pages, 483161 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 262 compressed objects within 3 object streams
+ 386 PDF objects out of 1000 (max. 8388607)
+ 266 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
