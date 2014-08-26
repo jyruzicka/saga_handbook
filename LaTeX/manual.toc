@@ -87,14 +87,20 @@
 \contentsline {subsection}{\numberline {2.9.2}Proposing a rule change}{26}
 \contentsline {subsection}{\numberline {2.9.3}Changing the rules}{26}
 \contentsline {subsection}{\numberline {2.9.4}Notifying people}{26}
-\contentsline {chapter}{\numberline {3}Assets}{27}
-\contentsline {section}{\numberline {3.1}Website}{27}
-\contentsline {section}{\numberline {3.2}Facebook page}{27}
-\contentsline {section}{\numberline {3.3}Mailing list}{27}
-\contentsline {section}{\numberline {3.4}Incoporated status}{27}
-\contentsline {chapter}{\numberline {4}Sample Documents}{29}
-\contentsline {section}{\numberline {4.1}Constitution}{29}
-\contentsline {section}{\numberline {4.2}Financial Report}{31}
-\contentsline {section}{\numberline {4.3}Budget}{35}
-\contentsline {section}{\numberline {4.4}Cashflow}{38}
-\contentsline {section}{\numberline {4.5}Checklists}{40}
+\contentsline {section}{\numberline {2.10}Petitioning to change University policy}{26}
+\contentsline {subsection}{\numberline {2.10.1}Determine whether change is necessary and realistic}{26}
+\contentsline {subsection}{\numberline {2.10.2}Reach out to other clubs}{26}
+\contentsline {subsection}{\numberline {2.10.3}Draft a position}{27}
+\contentsline {subsection}{\numberline {2.10.4}Talk to the UCSA}{27}
+\contentsline {subsection}{\numberline {2.10.5}Escalate to the policy's contact person}{27}
+\contentsline {chapter}{\numberline {3}Assets}{29}
+\contentsline {section}{\numberline {3.1}Website}{29}
+\contentsline {section}{\numberline {3.2}Facebook page}{29}
+\contentsline {section}{\numberline {3.3}Mailing list}{29}
+\contentsline {section}{\numberline {3.4}Incoporated status}{29}
+\contentsline {chapter}{\numberline {4}Sample Documents}{31}
+\contentsline {section}{\numberline {4.1}Constitution}{31}
+\contentsline {section}{\numberline {4.2}Financial Report}{33}
+\contentsline {section}{\numberline {4.3}Budget}{37}
+\contentsline {section}{\numberline {4.4}Cashflow}{40}
+\contentsline {section}{\numberline {4.5}Checklists}{42}
